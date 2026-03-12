@@ -1,0 +1,7 @@
+# 忽略 tmux.md 文件
+tmux.md
+
+# 忽略 IDE 配置目录
+.cloudstudio-backup/
+.vscode/
+
